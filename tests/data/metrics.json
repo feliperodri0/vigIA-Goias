@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-09-06T07:33-03:00",
-  "idade_h": 1.03,
+  "gerado_em": "2026-09-07T08:50-03:00",
+  "idade_h": 1.56,
   "n_dias": 5,
   "n_municipios_distintos": 244,
   "cobertura_pct": 100.0,
   "n_celulas_total": 14880,
-  "prob_media": 0.5149,
-  "prob_min": 0.0537,
-  "prob_max": 0.9779,
-  "prob_variancia": 0.071474,
+  "prob_media": 0.5356,
+  "prob_min": 0.052,
+  "prob_max": 0.9778,
+  "prob_variancia": 0.069032,
   "pct_baixo": 69.7,
   "pct_medio": 20.1,
   "pct_alto": 10.2,
@@ -18,44 +18,44 @@
   "tudo_zero": false,
   "top_n": [
     [
-      "NIQUELÂNDIA",
-      0.9481
-    ],
-    [
-      "MINEIROS",
-      0.9423
-    ],
-    [
-      "JATAÍ",
-      0.9357
-    ],
-    [
-      "RIO VERDE",
-      0.9313
+      "CAVALCANTE",
+      0.9415
     ],
     [
       "SÃO JOÃO D'ALIANÇA",
-      0.9096
+      0.9343
     ],
     [
       "MONTE ALEGRE DE GOIÁS",
-      0.9094
+      0.9314
     ],
     [
-      "SÃO MIGUEL DO ARAGUAIA",
-      0.9008
+      "MINAÇU",
+      0.9265
     ],
     [
       "NOVA ROMA",
-      0.8934
+      0.9176
+    ],
+    [
+      "FLORES DE GOIÁS",
+      0.913
+    ],
+    [
+      "PORANGATU",
+      0.9081
+    ],
+    [
+      "NIQUELÂNDIA",
+      0.9059
     ],
     [
       "COLINAS DO SUL",
-      0.8908
+      0.8871
     ],
     [
-      "JUSSARA",
-      0.8902
+      "SÃO DOMINGOS",
+      0.8697
     ]
   ],
   "status_geral": "OK",
@@ -63,7 +63,7 @@
     {
       "nome": "Frescor do boletim",
       "status": "OK",
-      "detalhe": "1.0h"
+      "detalhe": "1.6h"
     },
     {
       "nome": "Janela de previsão",
@@ -93,7 +93,7 @@
     {
       "nome": "Saída do modelo",
       "status": "OK",
-      "detalhe": "média=0.5149 var=0.071474"
+      "detalhe": "média=0.5356 var=0.069032"
     },
     {
       "nome": "Distribuição de risco",
