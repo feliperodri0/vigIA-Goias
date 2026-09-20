@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-09-19T07:35-03:00",
-  "idade_h": 1.27,
+  "gerado_em": "2026-09-20T07:50-03:00",
+  "idade_h": 1.31,
   "n_dias": 5,
   "n_municipios_distintos": 244,
   "cobertura_pct": 100.0,
   "n_celulas_total": 14880,
-  "prob_media": 0.5985,
-  "prob_min": 0.0712,
+  "prob_media": 0.5775,
+  "prob_min": 0.0733,
   "prob_max": 0.9792,
-  "prob_variancia": 0.060773,
+  "prob_variancia": 0.063184,
   "pct_baixo": 69.7,
   "pct_medio": 20.1,
   "pct_alto": 10.2,
@@ -19,43 +19,43 @@
   "top_n": [
     [
       "NIQUELÂNDIA",
-      0.9757
-    ],
-    [
-      "PADRE BERNARDO",
-      0.9634
-    ],
-    [
-      "SÃO JOÃO D'ALIANÇA",
-      0.9632
+      0.979
     ],
     [
       "FORMOSA",
-      0.9616
+      0.9761
     ],
     [
-      "RIO VERDE",
-      0.9606
+      "CAVALCANTE",
+      0.9746
+    ],
+    [
+      "PLANALTINA",
+      0.9683
+    ],
+    [
+      "SÃO JOÃO D'ALIANÇA",
+      0.9671
+    ],
+    [
+      "PADRE BERNARDO",
+      0.9659
+    ],
+    [
+      "CRISTALINA",
+      0.9598
     ],
     [
       "CRIXÁS",
-      0.9546
+      0.9585
     ],
     [
-      "MINAÇU",
-      0.9534
+      "COLINAS DO SUL",
+      0.9572
     ],
     [
       "MIMOSO DE GOIÁS",
-      0.9501
-    ],
-    [
-      "JATAÍ",
-      0.9495
-    ],
-    [
-      "PORANGATU",
-      0.9461
+      0.9555
     ]
   ],
   "status_geral": "OK",
@@ -93,7 +93,7 @@
     {
       "nome": "Saída do modelo",
       "status": "OK",
-      "detalhe": "média=0.5985 var=0.060773"
+      "detalhe": "média=0.5775 var=0.063184"
     },
     {
       "nome": "Distribuição de risco",
