@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-09-23T07:54-03:00",
-  "idade_h": 1.76,
+  "gerado_em": "2026-09-24T08:19-03:00",
+  "idade_h": 1.31,
   "n_dias": 5,
   "n_municipios_distintos": 244,
   "cobertura_pct": 100.0,
   "n_celulas_total": 14880,
-  "prob_media": 0.5973,
-  "prob_min": 0.0831,
-  "prob_max": 0.9734,
-  "prob_variancia": 0.052177,
+  "prob_media": 0.6267,
+  "prob_min": 0.0933,
+  "prob_max": 0.978,
+  "prob_variancia": 0.049468,
   "pct_baixo": 69.7,
   "pct_medio": 20.1,
   "pct_alto": 10.2,
@@ -18,44 +18,44 @@
   "tudo_zero": false,
   "top_n": [
     [
-      "NIQUELÂNDIA",
-      0.9348
-    ],
-    [
       "CRIXÁS",
-      0.9317
-    ],
-    [
-      "MINEIROS",
-      0.9236
+      0.9363
     ],
     [
       "NOVA CRIXÁS",
-      0.9196
+      0.9338
     ],
     [
-      "MONTE ALEGRE DE GOIÁS",
-      0.9134
+      "CAIAPÔNIA",
+      0.9312
     ],
     [
-      "SÃO MIGUEL DO ARAGUAIA",
-      0.9076
-    ],
-    [
-      "JUSSARA",
-      0.8954
-    ],
-    [
-      "PADRE BERNARDO",
-      0.8948
+      "JATAÍ",
+      0.9245
     ],
     [
       "FORMOSA",
-      0.8869
+      0.9218
+    ],
+    [
+      "NIQUELÂNDIA",
+      0.9127
+    ],
+    [
+      "PADRE BERNARDO",
+      0.9104
+    ],
+    [
+      "RIO VERDE",
+      0.91
+    ],
+    [
+      "MINEIROS",
+      0.9091
     ],
     [
       "FLORES DE GOIÁS",
-      0.8859
+      0.9065
     ]
   ],
   "status_geral": "OK",
@@ -63,7 +63,7 @@
     {
       "nome": "Frescor do boletim",
       "status": "OK",
-      "detalhe": "1.8h"
+      "detalhe": "1.3h"
     },
     {
       "nome": "Janela de previsão",
@@ -93,7 +93,7 @@
     {
       "nome": "Saída do modelo",
       "status": "OK",
-      "detalhe": "média=0.5973 var=0.052177"
+      "detalhe": "média=0.6267 var=0.049468"
     },
     {
       "nome": "Distribuição de risco",
