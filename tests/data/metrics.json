@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-09-25T08:24-03:00",
-  "idade_h": 1.26,
+  "gerado_em": "2026-09-26T08:08-03:00",
+  "idade_h": 1.0,
   "n_dias": 5,
   "n_municipios_distintos": 244,
   "cobertura_pct": 100.0,
   "n_celulas_total": 14880,
-  "prob_media": 0.6539,
-  "prob_min": 0.0933,
+  "prob_media": 0.6086,
+  "prob_min": 0.0167,
   "prob_max": 0.9792,
-  "prob_variancia": 0.047344,
+  "prob_variancia": 0.060202,
   "pct_baixo": 69.7,
   "pct_medio": 20.1,
   "pct_alto": 10.2,
@@ -19,43 +19,43 @@
   "top_n": [
     [
       "NIQUELÂNDIA",
-      0.9637
-    ],
-    [
-      "FORMOSA",
-      0.9578
-    ],
-    [
-      "RIO VERDE",
-      0.9517
-    ],
-    [
-      "PADRE BERNARDO",
-      0.9459
-    ],
-    [
-      "FLORES DE GOIÁS",
-      0.9453
-    ],
-    [
-      "MINEIROS",
-      0.9444
-    ],
-    [
-      "JATAÍ",
-      0.9382
+      0.9589
     ],
     [
       "CAVALCANTE",
-      0.9353
+      0.9506
     ],
     [
-      "CRIXÁS",
+      "FORMOSA",
+      0.9467
+    ],
+    [
+      "MINAÇU",
+      0.9459
+    ],
+    [
+      "NOVA CRIXÁS",
+      0.9432
+    ],
+    [
+      "SÃO JOÃO D'ALIANÇA",
       0.9342
     ],
     [
-      "PLANALTINA",
-      0.934
+      "PADRE BERNARDO",
+      0.9337
+    ],
+    [
+      "FLORES DE GOIÁS",
+      0.9315
+    ],
+    [
+      "CRIXÁS",
+      0.9315
+    ],
+    [
+      "CRISTALINA",
+      0.9209
     ]
   ],
   "status_geral": "OK",
@@ -63,7 +63,7 @@
     {
       "nome": "Frescor do boletim",
       "status": "OK",
-      "detalhe": "1.3h"
+      "detalhe": "1.0h"
     },
     {
       "nome": "Janela de previsão",
@@ -93,7 +93,7 @@
     {
       "nome": "Saída do modelo",
       "status": "OK",
-      "detalhe": "média=0.6539 var=0.047344"
+      "detalhe": "média=0.6086 var=0.060202"
     },
     {
       "nome": "Distribuição de risco",
