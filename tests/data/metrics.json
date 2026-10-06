@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-10-05T10:47-03:00",
-  "idade_h": 1.94,
+  "gerado_em": "2026-10-06T09:58-03:00",
+  "idade_h": 1.07,
   "n_dias": 5,
   "n_municipios_distintos": 244,
   "cobertura_pct": 100.0,
   "n_celulas_total": 14880,
-  "prob_media": 0.5988,
-  "prob_min": 0.0154,
+  "prob_media": 0.6515,
+  "prob_min": 0.0146,
   "prob_max": 0.9815,
-  "prob_variancia": 0.069585,
+  "prob_variancia": 0.055809,
   "pct_baixo": 69.7,
   "pct_medio": 20.1,
   "pct_alto": 10.2,
@@ -19,43 +19,43 @@
   "top_n": [
     [
       "NIQUELÂNDIA",
-      0.97
+      0.9702
     ],
     [
       "CAVALCANTE",
-      0.9646
+      0.9651
+    ],
+    [
+      "FORMOSA",
+      0.9594
     ],
     [
       "SÃO DOMINGOS",
-      0.9411
+      0.9567
     ],
     [
       "MINAÇU",
-      0.9406
+      0.951
     ],
     [
-      "NOVA CRIXÁS",
-      0.9404
+      "FLORES DE GOIÁS",
+      0.9495
     ],
     [
-      "MONTE ALEGRE DE GOIÁS",
-      0.9326
-    ],
-    [
-      "SÃO MIGUEL DO ARAGUAIA",
-      0.9325
-    ],
-    [
-      "COLINAS DO SUL",
-      0.9282
+      "SÃO JOÃO D'ALIANÇA",
+      0.9484
     ],
     [
       "PORANGATU",
-      0.9274
+      0.9477
     ],
     [
-      "NOVA ROMA",
-      0.9231
+      "PLANALTINA",
+      0.9471
+    ],
+    [
+      "MONTE ALEGRE DE GOIÁS",
+      0.9443
     ]
   ],
   "status_geral": "OK",
@@ -63,7 +63,7 @@
     {
       "nome": "Frescor do boletim",
       "status": "OK",
-      "detalhe": "1.9h"
+      "detalhe": "1.1h"
     },
     {
       "nome": "Janela de previsão",
@@ -93,7 +93,7 @@
     {
       "nome": "Saída do modelo",
       "status": "OK",
-      "detalhe": "média=0.5988 var=0.069585"
+      "detalhe": "média=0.6515 var=0.055809"
     },
     {
       "nome": "Distribuição de risco",
