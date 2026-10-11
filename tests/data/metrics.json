@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-10-10T09:10-03:00",
-  "idade_h": 1.27,
+  "gerado_em": "2026-10-11T09:22-03:00",
+  "idade_h": 1.51,
   "n_dias": 5,
   "n_municipios_distintos": 244,
   "cobertura_pct": 100.0,
   "n_celulas_total": 14880,
-  "prob_media": 0.5019,
-  "prob_min": 0.0166,
-  "prob_max": 0.9815,
-  "prob_variancia": 0.070903,
+  "prob_media": 0.4424,
+  "prob_min": 0.0147,
+  "prob_max": 0.9774,
+  "prob_variancia": 0.06839,
   "pct_baixo": 69.7,
   "pct_medio": 20.1,
   "pct_alto": 10.2,
@@ -18,44 +18,44 @@
   "tudo_zero": false,
   "top_n": [
     [
-      "NIQUELÂNDIA",
-      0.9778
-    ],
-    [
       "FORMOSA",
-      0.9735
-    ],
-    [
-      "CAVALCANTE",
-      0.9727
-    ],
-    [
-      "SÃO JOÃO D'ALIANÇA",
-      0.9669
-    ],
-    [
-      "PADRE BERNARDO",
-      0.9666
-    ],
-    [
-      "PLANALTINA",
-      0.9657
+      0.9774
     ],
     [
       "FLORES DE GOIÁS",
-      0.9652
+      0.9711
     ],
     [
-      "MINAÇU",
-      0.9613
-    ],
-    [
-      "MONTE ALEGRE DE GOIÁS",
-      0.9571
+      "PLANALTINA",
+      0.9711
     ],
     [
       "PORANGATU",
-      0.9564
+      0.9648
+    ],
+    [
+      "SÃO DOMINGOS",
+      0.9617
+    ],
+    [
+      "CRISTALINA",
+      0.9537
+    ],
+    [
+      "NIQUELÂNDIA",
+      0.9487
+    ],
+    [
+      "POSSE",
+      0.9426
+    ],
+    [
+      "VILA PROPÍCIO",
+      0.9412
+    ],
+    [
+      "CAVALCANTE",
+      0.9389
     ]
   ],
   "status_geral": "OK",
@@ -63,7 +63,7 @@
     {
       "nome": "Frescor do boletim",
       "status": "OK",
-      "detalhe": "1.3h"
+      "detalhe": "1.5h"
     },
     {
       "nome": "Janela de previsão",
@@ -93,7 +93,7 @@
     {
       "nome": "Saída do modelo",
       "status": "OK",
-      "detalhe": "média=0.5019 var=0.070903"
+      "detalhe": "média=0.4424 var=0.06839"
     },
     {
       "nome": "Distribuição de risco",
