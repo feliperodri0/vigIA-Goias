@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-10-16T07:56-03:00",
-  "idade_h": 1.25,
+  "gerado_em": "2026-10-17T07:26-03:00",
+  "idade_h": 1.06,
   "n_dias": 5,
   "n_municipios_distintos": 244,
   "cobertura_pct": 100.0,
   "n_celulas_total": 14880,
-  "prob_media": 0.5115,
-  "prob_min": 0.0145,
-  "prob_max": 0.9651,
-  "prob_variancia": 0.058537,
+  "prob_media": 0.5361,
+  "prob_min": 0.0141,
+  "prob_max": 0.9625,
+  "prob_variancia": 0.058238,
   "pct_baixo": 69.7,
   "pct_medio": 20.1,
   "pct_alto": 10.2,
@@ -18,44 +18,44 @@
   "tudo_zero": false,
   "top_n": [
     [
-      "MONTE ALEGRE DE GOIÁS",
-      0.9432
+      "CAVALCANTE",
+      0.9302
     ],
     [
-      "SÃO DOMINGOS",
-      0.9306
-    ],
-    [
-      "MINAÇU",
-      0.9299
+      "CAIAPÔNIA",
+      0.9209
     ],
     [
       "NIQUELÂNDIA",
-      0.9295
+      0.9149
     ],
     [
-      "CAVALCANTE",
-      0.927
+      "MINEIROS",
+      0.9143
+    ],
+    [
+      "RIO VERDE",
+      0.9073
+    ],
+    [
+      "ARAGUAPAZ",
+      0.8969
     ],
     [
       "NOVA CRIXÁS",
-      0.9172
+      0.8916
     ],
     [
-      "CRIXÁS",
-      0.9132
+      "JATAÍ",
+      0.8895
     ],
     [
-      "CRISTALINA",
-      0.912
+      "COLINAS DO SUL",
+      0.8833
     ],
     [
-      "PORANGATU",
-      0.9088
-    ],
-    [
-      "POSSE",
-      0.8947
+      "JUSSARA",
+      0.8782
     ]
   ],
   "status_geral": "OK",
@@ -63,7 +63,7 @@
     {
       "nome": "Frescor do boletim",
       "status": "OK",
-      "detalhe": "1.2h"
+      "detalhe": "1.1h"
     },
     {
       "nome": "Janela de previsão",
@@ -93,7 +93,7 @@
     {
       "nome": "Saída do modelo",
       "status": "OK",
-      "detalhe": "média=0.5115 var=0.058537"
+      "detalhe": "média=0.5361 var=0.058238"
     },
     {
       "nome": "Distribuição de risco",
