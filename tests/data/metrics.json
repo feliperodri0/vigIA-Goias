@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-10-17T07:26-03:00",
-  "idade_h": 1.06,
+  "gerado_em": "2026-10-18T07:48-03:00",
+  "idade_h": 1.19,
   "n_dias": 5,
   "n_municipios_distintos": 244,
   "cobertura_pct": 100.0,
   "n_celulas_total": 14880,
-  "prob_media": 0.5361,
-  "prob_min": 0.0141,
-  "prob_max": 0.9625,
-  "prob_variancia": 0.058238,
+  "prob_media": 0.5329,
+  "prob_min": 0.0155,
+  "prob_max": 0.9766,
+  "prob_variancia": 0.066613,
   "pct_baixo": 69.7,
   "pct_medio": 20.1,
   "pct_alto": 10.2,
@@ -18,44 +18,44 @@
   "tudo_zero": false,
   "top_n": [
     [
-      "CAVALCANTE",
-      0.9302
+      "NOVA CRIXÁS",
+      0.9627
     ],
     [
       "CAIAPÔNIA",
-      0.9209
-    ],
-    [
-      "NIQUELÂNDIA",
-      0.9149
-    ],
-    [
-      "MINEIROS",
-      0.9143
+      0.9525
     ],
     [
       "RIO VERDE",
-      0.9073
+      0.9458
     ],
     [
-      "ARAGUAPAZ",
-      0.8969
+      "NIQUELÂNDIA",
+      0.9448
     ],
     [
-      "NOVA CRIXÁS",
-      0.8916
-    ],
-    [
-      "JATAÍ",
-      0.8895
-    ],
-    [
-      "COLINAS DO SUL",
-      0.8833
+      "CRIXÁS",
+      0.9398
     ],
     [
       "JUSSARA",
-      0.8782
+      0.9294
+    ],
+    [
+      "MINEIROS",
+      0.9263
+    ],
+    [
+      "JATAÍ",
+      0.9206
+    ],
+    [
+      "ARAGUAPAZ",
+      0.9198
+    ],
+    [
+      "SERRANÓPOLIS",
+      0.9119
     ]
   ],
   "status_geral": "OK",
@@ -63,7 +63,7 @@
     {
       "nome": "Frescor do boletim",
       "status": "OK",
-      "detalhe": "1.1h"
+      "detalhe": "1.2h"
     },
     {
       "nome": "Janela de previsão",
@@ -93,7 +93,7 @@
     {
       "nome": "Saída do modelo",
       "status": "OK",
-      "detalhe": "média=0.5361 var=0.058238"
+      "detalhe": "média=0.5329 var=0.066613"
     },
     {
       "nome": "Distribuição de risco",
