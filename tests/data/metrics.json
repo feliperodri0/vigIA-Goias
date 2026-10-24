@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-10-23T08:20-03:00",
-  "idade_h": 1.17,
+  "gerado_em": "2026-10-24T07:37-03:00",
+  "idade_h": 1.3,
   "n_dias": 5,
   "n_municipios_distintos": 244,
   "cobertura_pct": 100.0,
   "n_celulas_total": 14880,
-  "prob_media": 0.4572,
-  "prob_min": 0.0143,
-  "prob_max": 0.9637,
-  "prob_variancia": 0.060885,
+  "prob_media": 0.4014,
+  "prob_min": 0.0138,
+  "prob_max": 0.9401,
+  "prob_variancia": 0.054714,
   "pct_baixo": 69.7,
   "pct_medio": 20.1,
   "pct_alto": 10.2,
@@ -18,44 +18,44 @@
   "tudo_zero": false,
   "top_n": [
     [
-      "MONTE ALEGRE DE GOIÁS",
-      0.9637
+      "PLANALTINA",
+      0.9089
     ],
     [
-      "FLORES DE GOIÁS",
-      0.9633
-    ],
-    [
-      "SÃO DOMINGOS",
-      0.9617
-    ],
-    [
-      "NOVA ROMA",
-      0.9507
-    ],
-    [
-      "NOVA CRIXÁS",
-      0.9393
-    ],
-    [
-      "FORMOSA",
-      0.9373
-    ],
-    [
-      "PORANGATU",
-      0.9365
-    ],
-    [
-      "ALVORADA DO NORTE",
-      0.934
+      "RIO VERDE",
+      0.8933
     ],
     [
       "SÃO MIGUEL DO ARAGUAIA",
-      0.9325
+      0.8921
     ],
     [
-      "CRIXÁS",
-      0.932
+      "NIQUELÂNDIA",
+      0.8903
+    ],
+    [
+      "PORANGATU",
+      0.8886
+    ],
+    [
+      "SÃO DOMINGOS",
+      0.8744
+    ],
+    [
+      "SÃO JOÃO D'ALIANÇA",
+      0.8713
+    ],
+    [
+      "NOVA ROMA",
+      0.8693
+    ],
+    [
+      "CAVALCANTE",
+      0.8674
+    ],
+    [
+      "JATAÍ",
+      0.8622
     ]
   ],
   "status_geral": "OK",
@@ -63,7 +63,7 @@
     {
       "nome": "Frescor do boletim",
       "status": "OK",
-      "detalhe": "1.2h"
+      "detalhe": "1.3h"
     },
     {
       "nome": "Janela de previsão",
@@ -93,7 +93,7 @@
     {
       "nome": "Saída do modelo",
       "status": "OK",
-      "detalhe": "média=0.4572 var=0.060885"
+      "detalhe": "média=0.4014 var=0.054714"
     },
     {
       "nome": "Distribuição de risco",
