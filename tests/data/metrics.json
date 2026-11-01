@@ -1,16 +1,16 @@
 {
-  "gerado_em": "2026-10-31T08:51-03:00",
-  "idade_h": 1.62,
+  "gerado_em": "2026-11-01T09:58-03:00",
+  "idade_h": 1.19,
   "n_dias": 5,
   "n_municipios_distintos": 244,
   "cobertura_pct": 100.0,
   "n_celulas_total": 14880,
-  "prob_media": 0.3089,
-  "prob_min": 0.0109,
-  "prob_max": 0.9083,
-  "prob_variancia": 0.048459,
-  "pct_baixo": 69.8,
-  "pct_medio": 20.0,
+  "prob_media": 0.3473,
+  "prob_min": 0.0112,
+  "prob_max": 0.9221,
+  "prob_variancia": 0.055147,
+  "pct_baixo": 69.7,
+  "pct_medio": 20.1,
   "pct_alto": 10.2,
   "probs_invalidas": 0,
   "riscos_invalidos": 0,
@@ -18,44 +18,44 @@
   "tudo_zero": false,
   "top_n": [
     [
-      "PORANGATU",
-      0.8602
-    ],
-    [
-      "MINEIROS",
-      0.8353
+      "NOVA CRIXÁS",
+      0.8882
     ],
     [
       "NIQUELÂNDIA",
-      0.833
+      0.8879
     ],
     [
-      "NOVA CRIXÁS",
-      0.8324
-    ],
-    [
-      "MINAÇU",
-      0.8309
-    ],
-    [
-      "SÃO MIGUEL DO ARAGUAIA",
-      0.7619
-    ],
-    [
-      "SÃO DOMINGOS",
-      0.7581
-    ],
-    [
-      "CAMPINAÇU",
-      0.746
-    ],
-    [
-      "MONTE ALEGRE DE GOIÁS",
-      0.7439
+      "CAVALCANTE",
+      0.8473
     ],
     [
       "CAIAPÔNIA",
-      0.7198
+      0.8182
+    ],
+    [
+      "SÃO MIGUEL DO ARAGUAIA",
+      0.7961
+    ],
+    [
+      "URUAÇU",
+      0.7904
+    ],
+    [
+      "MINEIROS",
+      0.7776
+    ],
+    [
+      "BALIZA",
+      0.7763
+    ],
+    [
+      "DOVERLÂNDIA",
+      0.7704
+    ],
+    [
+      "SÃO DOMINGOS",
+      0.7696
     ]
   ],
   "status_geral": "OK",
@@ -63,7 +63,7 @@
     {
       "nome": "Frescor do boletim",
       "status": "OK",
-      "detalhe": "1.6h"
+      "detalhe": "1.2h"
     },
     {
       "nome": "Janela de previsão",
@@ -93,12 +93,12 @@
     {
       "nome": "Saída do modelo",
       "status": "OK",
-      "detalhe": "média=0.3089 var=0.048459"
+      "detalhe": "média=0.3473 var=0.055147"
     },
     {
       "nome": "Distribuição de risco",
       "status": "OK",
-      "detalhe": "B=69.8% M=20.0% A=10.2%"
+      "detalhe": "B=69.7% M=20.1% A=10.2%"
     }
   ]
 }
