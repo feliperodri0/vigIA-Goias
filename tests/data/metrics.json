@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-11-04T11:00-03:00",
-  "idade_h": 1.25,
+  "gerado_em": "2026-11-05T11:00-03:00",
+  "idade_h": 1.28,
   "n_dias": 5,
   "n_municipios_distintos": 244,
   "cobertura_pct": 100.0,
   "n_celulas_total": 14880,
-  "prob_media": 0.3234,
+  "prob_media": 0.2843,
   "prob_min": 0.0108,
-  "prob_max": 0.9199,
-  "prob_variancia": 0.057817,
+  "prob_max": 0.9213,
+  "prob_variancia": 0.050615,
   "pct_baixo": 69.7,
   "pct_medio": 20.1,
   "pct_alto": 10.2,
@@ -19,43 +19,43 @@
   "top_n": [
     [
       "PORANGATU",
-      0.9072
-    ],
-    [
-      "FLORES DE GOIÁS",
-      0.8875
-    ],
-    [
-      "FORMOSA",
-      0.8866
+      0.9213
     ],
     [
       "NIQUELÂNDIA",
-      0.8718
+      0.9166
     ],
     [
-      "ARUANÃ",
-      0.852
+      "CAVALCANTE",
+      0.9066
     ],
     [
-      "NOVA CRIXÁS",
-      0.841
+      "MINAÇU",
+      0.9021
     ],
     [
-      "SÃO MIGUEL DO ARAGUAIA",
-      0.8371
+      "FLORES DE GOIÁS",
+      0.8896
     ],
     [
-      "SÃO DOMINGOS",
-      0.8183
+      "FORMOSA",
+      0.8877
     ],
     [
-      "MONTE ALEGRE DE GOIÁS",
-      0.8092
+      "CAMPINAÇU",
+      0.8829
     ],
     [
-      "JUSSARA",
-      0.799
+      "CAIAPÔNIA",
+      0.8715
+    ],
+    [
+      "ALVORADA DO NORTE",
+      0.8408
+    ],
+    [
+      "URUAÇU",
+      0.8392
     ]
   ],
   "status_geral": "OK",
@@ -63,7 +63,7 @@
     {
       "nome": "Frescor do boletim",
       "status": "OK",
-      "detalhe": "1.2h"
+      "detalhe": "1.3h"
     },
     {
       "nome": "Janela de previsão",
@@ -93,7 +93,7 @@
     {
       "nome": "Saída do modelo",
       "status": "OK",
-      "detalhe": "média=0.3234 var=0.057817"
+      "detalhe": "média=0.2843 var=0.050615"
     },
     {
       "nome": "Distribuição de risco",
