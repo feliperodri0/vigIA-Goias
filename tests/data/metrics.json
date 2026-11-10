@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-11-09T12:19-03:00",
-  "idade_h": 1.98,
+  "gerado_em": "2026-11-10T11:35-03:00",
+  "idade_h": 0.89,
   "n_dias": 5,
   "n_municipios_distintos": 244,
   "cobertura_pct": 100.0,
   "n_celulas_total": 14880,
-  "prob_media": 0.2545,
-  "prob_min": 0.0108,
-  "prob_max": 0.9034,
-  "prob_variancia": 0.037736,
+  "prob_media": 0.2669,
+  "prob_min": 0.0111,
+  "prob_max": 0.9199,
+  "prob_variancia": 0.042058,
   "pct_baixo": 69.7,
   "pct_medio": 20.1,
   "pct_alto": 10.2,
@@ -18,44 +18,44 @@
   "tudo_zero": false,
   "top_n": [
     [
-      "SERRANÓPOLIS",
-      0.8198
+      "MONTE ALEGRE DE GOIÁS",
+      0.9098
     ],
     [
-      "MINEIROS",
-      0.7838
+      "SÃO DOMINGOS",
+      0.9083
     ],
     [
       "NIQUELÂNDIA",
-      0.7511
+      0.8946
     ],
     [
-      "ITAJÁ",
-      0.7286
+      "PORANGATU",
+      0.8662
     ],
     [
-      "ITARUMÃ",
-      0.7258
+      "FLORES DE GOIÁS",
+      0.8654
     ],
     [
-      "JUSSARA",
-      0.7183
+      "ALVORADA DO NORTE",
+      0.8408
     ],
     [
-      "DOVERLÂNDIA",
-      0.6737
+      "CAVALCANTE",
+      0.8073
     ],
     [
-      "JATAÍ",
-      0.6601
+      "ALTO PARAÍSO DE GOIÁS",
+      0.7782
     ],
     [
-      "CAIAPÔNIA",
-      0.6529
+      "NOVA ROMA",
+      0.7738
     ],
     [
-      "NOVA CRIXÁS",
-      0.6445
+      "SÃO JOÃO D'ALIANÇA",
+      0.7693
     ]
   ],
   "status_geral": "OK",
@@ -63,7 +63,7 @@
     {
       "nome": "Frescor do boletim",
       "status": "OK",
-      "detalhe": "2.0h"
+      "detalhe": "0.9h"
     },
     {
       "nome": "Janela de previsão",
@@ -93,7 +93,7 @@
     {
       "nome": "Saída do modelo",
       "status": "OK",
-      "detalhe": "média=0.2545 var=0.037736"
+      "detalhe": "média=0.2669 var=0.042058"
     },
     {
       "nome": "Distribuição de risco",
