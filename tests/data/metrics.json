@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-11-11T10:45-03:00",
-  "idade_h": 1.24,
+  "gerado_em": "2026-11-12T11:50-03:00",
+  "idade_h": 1.04,
   "n_dias": 5,
   "n_municipios_distintos": 244,
   "cobertura_pct": 100.0,
   "n_celulas_total": 14880,
-  "prob_media": 0.2643,
-  "prob_min": 0.0111,
-  "prob_max": 0.9013,
-  "prob_variancia": 0.040779,
+  "prob_media": 0.2372,
+  "prob_min": 0.011,
+  "prob_max": 0.8699,
+  "prob_variancia": 0.0353,
   "pct_baixo": 69.7,
   "pct_medio": 20.1,
   "pct_alto": 10.2,
@@ -18,44 +18,44 @@
   "tudo_zero": false,
   "top_n": [
     [
-      "PORANGATU",
-      0.9013
-    ],
-    [
-      "MINAÇU",
-      0.885
-    ],
-    [
-      "FORMOSA",
-      0.8804
-    ],
-    [
-      "MONTE ALEGRE DE GOIÁS",
-      0.8683
-    ],
-    [
       "NIQUELÂNDIA",
       0.8629
     ],
     [
+      "CAIAPÔNIA",
+      0.7944
+    ],
+    [
+      "URUAÇU",
+      0.7588
+    ],
+    [
+      "AMARALINA",
+      0.753
+    ],
+    [
+      "MONTE ALEGRE DE GOIÁS",
+      0.7478
+    ],
+    [
+      "MINEIROS",
+      0.7296
+    ],
+    [
+      "PORANGATU",
+      0.7261
+    ],
+    [
+      "CAMPOS BELOS",
+      0.6855
+    ],
+    [
       "SÃO DOMINGOS",
-      0.8504
+      0.6833
     ],
     [
-      "SÃO MIGUEL DO ARAGUAIA",
-      0.8046
-    ],
-    [
-      "NOVA ROMA",
-      0.7989
-    ],
-    [
-      "NOVA CRIXÁS",
-      0.7768
-    ],
-    [
-      "CAVALCANTE",
-      0.7765
+      "MARA ROSA",
+      0.6666
     ]
   ],
   "status_geral": "OK",
@@ -63,7 +63,7 @@
     {
       "nome": "Frescor do boletim",
       "status": "OK",
-      "detalhe": "1.2h"
+      "detalhe": "1.0h"
     },
     {
       "nome": "Janela de previsão",
@@ -93,7 +93,7 @@
     {
       "nome": "Saída do modelo",
       "status": "OK",
-      "detalhe": "média=0.2643 var=0.040779"
+      "detalhe": "média=0.2372 var=0.0353"
     },
     {
       "nome": "Distribuição de risco",
