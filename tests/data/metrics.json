@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-11-13T10:57-03:00",
-  "idade_h": 1.25,
+  "gerado_em": "2026-11-14T10:01-03:00",
+  "idade_h": 0.99,
   "n_dias": 5,
   "n_municipios_distintos": 244,
   "cobertura_pct": 100.0,
   "n_celulas_total": 14880,
-  "prob_media": 0.2212,
-  "prob_min": 0.0108,
-  "prob_max": 0.8831,
-  "prob_variancia": 0.035104,
+  "prob_media": 0.2077,
+  "prob_min": 0.0106,
+  "prob_max": 0.8136,
+  "prob_variancia": 0.027261,
   "pct_baixo": 69.7,
   "pct_medio": 20.1,
   "pct_alto": 10.2,
@@ -19,43 +19,43 @@
   "top_n": [
     [
       "NOVA CRIXÁS",
-      0.8831
-    ],
-    [
-      "MINEIROS",
-      0.8645
+      0.7975
     ],
     [
       "NIQUELÂNDIA",
-      0.8624
+      0.7832
     ],
     [
-      "CAIAPÔNIA",
-      0.8599
+      "CAVALCANTE",
+      0.7797
     ],
     [
-      "JUSSARA",
-      0.8361
-    ],
-    [
-      "CRIXÁS",
-      0.8324
+      "FLORES DE GOIÁS",
+      0.7572
     ],
     [
       "MONTE ALEGRE DE GOIÁS",
-      0.8155
+      0.7555
+    ],
+    [
+      "PARAÚNA",
+      0.7316
+    ],
+    [
+      "CAIAPÔNIA",
+      0.7198
     ],
     [
       "FORMOSA",
-      0.815
+      0.703
     ],
     [
-      "MARA ROSA",
-      0.8131
+      "CRIXÁS",
+      0.7026
     ],
     [
-      "ARUANÃ",
-      0.8128
+      "MINEIROS",
+      0.6978
     ]
   ],
   "status_geral": "OK",
@@ -63,7 +63,7 @@
     {
       "nome": "Frescor do boletim",
       "status": "OK",
-      "detalhe": "1.2h"
+      "detalhe": "1.0h"
     },
     {
       "nome": "Janela de previsão",
@@ -93,7 +93,7 @@
     {
       "nome": "Saída do modelo",
       "status": "OK",
-      "detalhe": "média=0.2212 var=0.035104"
+      "detalhe": "média=0.2077 var=0.027261"
     },
     {
       "nome": "Distribuição de risco",
