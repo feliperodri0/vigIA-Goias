@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-11-17T12:37-03:00",
-  "idade_h": 1.16,
+  "gerado_em": "2026-11-18T12:07-03:00",
+  "idade_h": 1.18,
   "n_dias": 5,
   "n_municipios_distintos": 244,
   "cobertura_pct": 100.0,
   "n_celulas_total": 14880,
-  "prob_media": 0.2335,
-  "prob_min": 0.0112,
-  "prob_max": 0.8257,
-  "prob_variancia": 0.032537,
+  "prob_media": 0.2336,
+  "prob_min": 0.0111,
+  "prob_max": 0.8292,
+  "prob_variancia": 0.032146,
   "pct_baixo": 69.7,
   "pct_medio": 20.1,
   "pct_alto": 10.2,
@@ -18,44 +18,44 @@
   "tudo_zero": false,
   "top_n": [
     [
-      "MINEIROS",
-      0.7537
+      "CAIAPÔNIA",
+      0.7863
     ],
     [
-      "NOVA CRIXÁS",
-      0.7241
+      "CAVALCANTE",
+      0.7765
     ],
     [
-      "DOVERLÂNDIA",
-      0.7197
+      "PORANGATU",
+      0.7676
     ],
     [
       "MONTE ALEGRE DE GOIÁS",
-      0.7186
-    ],
-    [
-      "CAIAPÔNIA",
-      0.7149
-    ],
-    [
-      "JATAÍ",
-      0.7056
-    ],
-    [
-      "PARAÚNA",
-      0.6588
-    ],
-    [
-      "BALIZA",
-      0.6515
-    ],
-    [
-      "SERRANÓPOLIS",
-      0.6456
+      0.7366
     ],
     [
       "SÃO DOMINGOS",
-      0.641
+      0.7365
+    ],
+    [
+      "MINEIROS",
+      0.7272
+    ],
+    [
+      "JATAÍ",
+      0.697
+    ],
+    [
+      "NOVA CRIXÁS",
+      0.6738
+    ],
+    [
+      "PARAÚNA",
+      0.6715
+    ],
+    [
+      "JUSSARA",
+      0.6368
     ]
   ],
   "status_geral": "OK",
@@ -93,7 +93,7 @@
     {
       "nome": "Saída do modelo",
       "status": "OK",
-      "detalhe": "média=0.2335 var=0.032537"
+      "detalhe": "média=0.2336 var=0.032146"
     },
     {
       "nome": "Distribuição de risco",
