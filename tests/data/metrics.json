@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-11-24T13:58-03:00",
-  "idade_h": 1.77,
+  "gerado_em": "2026-11-25T13:48-03:00",
+  "idade_h": 1.08,
   "n_dias": 5,
   "n_municipios_distintos": 244,
   "cobertura_pct": 100.0,
   "n_celulas_total": 14880,
-  "prob_media": 0.2703,
+  "prob_media": 0.2757,
   "prob_min": 0.0111,
-  "prob_max": 0.9403,
-  "prob_variancia": 0.050825,
+  "prob_max": 0.9272,
+  "prob_variancia": 0.052416,
   "pct_baixo": 69.7,
   "pct_medio": 20.1,
   "pct_alto": 10.2,
@@ -18,44 +18,44 @@
   "tudo_zero": false,
   "top_n": [
     [
-      "NIQUELÂNDIA",
-      0.8946
+      "MONTE ALEGRE DE GOIÁS",
+      0.893
     ],
     [
       "PORANGATU",
-      0.8913
+      0.8662
+    ],
+    [
+      "NIQUELÂNDIA",
+      0.8575
+    ],
+    [
+      "FLORES DE GOIÁS",
+      0.8538
     ],
     [
       "SÃO DOMINGOS",
-      0.8312
+      0.8536
     ],
     [
-      "MONTIVIDIU DO NORTE",
-      0.829
+      "MINAÇU",
+      0.8296
     ],
     [
-      "SÃO MIGUEL DO ARAGUAIA",
-      0.8046
-    ],
-    [
-      "ALVORADA DO NORTE",
-      0.7945
-    ],
-    [
-      "FORMOSA",
-      0.7873
+      "SÃO JOÃO D'ALIANÇA",
+      0.8279
     ],
     [
       "CAVALCANTE",
-      0.7811
+      0.819
+    ],
+    [
+      "ALVORADA DO NORTE",
+      0.8035
     ],
     [
       "NOVA CRIXÁS",
-      0.7768
-    ],
-    [
-      "CAMPINAÇU",
-      0.7652
+      0.7894
     ]
   ],
   "status_geral": "OK",
@@ -63,7 +63,7 @@
     {
       "nome": "Frescor do boletim",
       "status": "OK",
-      "detalhe": "1.8h"
+      "detalhe": "1.1h"
     },
     {
       "nome": "Janela de previsão",
@@ -93,7 +93,7 @@
     {
       "nome": "Saída do modelo",
       "status": "OK",
-      "detalhe": "média=0.2703 var=0.050825"
+      "detalhe": "média=0.2757 var=0.052416"
     },
     {
       "nome": "Distribuição de risco",
