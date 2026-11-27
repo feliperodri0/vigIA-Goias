@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-11-26T13:24-03:00",
-  "idade_h": 1.22,
+  "gerado_em": "2026-11-27T13:09-03:00",
+  "idade_h": 1.17,
   "n_dias": 5,
   "n_municipios_distintos": 244,
   "cobertura_pct": 100.0,
   "n_celulas_total": 14880,
-  "prob_media": 0.3741,
-  "prob_min": 0.0094,
+  "prob_media": 0.3562,
+  "prob_min": 0.0091,
   "prob_max": 0.9624,
-  "prob_variancia": 0.071339,
+  "prob_variancia": 0.069666,
   "pct_baixo": 69.7,
   "pct_medio": 20.1,
   "pct_alto": 10.2,
@@ -19,43 +19,43 @@
   "top_n": [
     [
       "CAVALCANTE",
-      0.9104
-    ],
-    [
-      "MONTE ALEGRE DE GOIÁS",
-      0.9098
-    ],
-    [
-      "SÃO JOÃO D'ALIANÇA",
-      0.909
+      0.9398
     ],
     [
       "SÃO DOMINGOS",
-      0.9083
-    ],
-    [
-      "NOVA CRIXÁS",
-      0.9026
+      0.9381
     ],
     [
       "NIQUELÂNDIA",
-      0.897
-    ],
-    [
-      "PORANGATU",
-      0.8913
+      0.938
     ],
     [
       "FLORES DE GOIÁS",
-      0.8896
+      0.9161
+    ],
+    [
+      "FORMOSA",
+      0.9132
+    ],
+    [
+      "MONTE ALEGRE DE GOIÁS",
+      0.9081
+    ],
+    [
+      "SÃO JOÃO D'ALIANÇA",
+      0.9073
+    ],
+    [
+      "PORANGATU",
+      0.9044
     ],
     [
       "MINAÇU",
-      0.885
+      0.9003
     ],
     [
-      "ALTO PARAÍSO DE GOIÁS",
-      0.8689
+      "BARRO ALTO",
+      0.8932
     ]
   ],
   "status_geral": "OK",
@@ -93,7 +93,7 @@
     {
       "nome": "Saída do modelo",
       "status": "OK",
-      "detalhe": "média=0.3741 var=0.071339"
+      "detalhe": "média=0.3562 var=0.069666"
     },
     {
       "nome": "Distribuição de risco",
